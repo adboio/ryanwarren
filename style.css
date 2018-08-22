@@ -53,3 +53,24 @@ a:hover {
 .section {
 	margin-bottom: 25px;
 }
+
+#skills {
+	color: #000000;
+}
+
+#panel-two {
+	padding-top: 35px;
+	color: #ffffff;
+	background-color: #80459b;
+}
+
+#contact-row {
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+#footer {
+	color: #80459b;
+	background-color: #ffffff;
+	padding: 15px 0;
+}
