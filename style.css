@@ -74,3 +74,12 @@ a:hover {
 	background-color: #ffffff;
 	padding: 15px 0;
 }
+
+#resume-download {
+	font-size: .9em;
+	margin-top: -7px;
+}
+
+#resume-download-link {
+	color: #80459b;
+}
