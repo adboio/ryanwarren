@@ -1,0 +1,36 @@
+body, html {
+	height: 100vh;
+	margin: 0;
+	padding: 0;
+}
+
+.vertical-center {
+	min-height: 100%;
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+}
+
+body {
+	color: #ffffff;
+	background-color: #80459b;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.bold {
+	font-weight: 700;
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: white;
+	opacity: .75;
+}
+
+#panel-one {
+	color: #80459b;
+	background-color: #ffffff;
+}
